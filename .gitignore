@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large, don't push to git)
+saved_models/
+
+# Data file (sensitive)
+customer_churn.csv
+
+# React
+node_modules/
+dist/
+.env

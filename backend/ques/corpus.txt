@@ -1,0 +1,4 @@
+machine learning is fun
+deep learning is powerful
+artificial intelligence is the future
+python is great for data science
